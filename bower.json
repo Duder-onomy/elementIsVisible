@@ -5,6 +5,10 @@
     "Greg Larrenaga <greg.larrenaga@thinksolid.com>"
   ],
   "description": "Checks if an element is visible",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Duder-onomy/elementIsVisible.git"
+  },
   "main": "main.js",
   "license": "MIT"
 }
