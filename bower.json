@@ -1,0 +1,17 @@
+{
+  "name": "elementIsVisible",
+  "version": "0.0.0",
+  "authors": [
+    "Greg Larrenaga <greg.larrenaga@thinksolid.com>"
+  ],
+  "description": "Checks if an element is visible",
+  "main": "main.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
